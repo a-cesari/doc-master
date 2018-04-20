@@ -1,0 +1,7 @@
+Fri Apr 20 08:51:10 UTC 2018
+Running regtest in /home/travis/build/a-cesari/plumed2/regtest/basic/rt42b
+++ Test type: driver
+++ Arguments: --plumed plumed.dat --igro trajectory.gro
+++ Processors: 0
+WARNING using plumed from /home/travis/opt/lib/plumed
+/home/travis/build/a-cesari/plumed2/regtest/basic/rt42b/tmp

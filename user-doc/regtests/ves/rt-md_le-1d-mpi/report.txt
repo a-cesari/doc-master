@@ -1,0 +1,8 @@
+Fri Apr 20 08:56:08 UTC 2018
+Running regtest in /home/travis/build/a-cesari/plumed2/regtest/ves/rt-md_le-1d-mpi
+++ Test type: plumed
+++ Arguments: ves_md_linearexpansion input
+++ Processors: 2
+WARNING using plumed from /home/travis/opt/lib/plumed
+/home/travis/build/a-cesari/plumed2/regtest/ves/rt-md_le-1d-mpi/tmp
+Checking for ves

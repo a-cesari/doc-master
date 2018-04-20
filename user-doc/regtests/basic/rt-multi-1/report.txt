@@ -1,0 +1,7 @@
+Fri Apr 20 08:53:01 UTC 2018
+Running regtest in /home/travis/build/a-cesari/plumed2/regtest/basic/rt-multi-1
+++ Test type: driver
+++ Arguments: --plumed plumed.dat --ixyz traj.xyz --multi 3 --debug-forces ff
+++ Processors: 6
+WARNING using plumed from /home/travis/opt/lib/plumed
+/home/travis/build/a-cesari/plumed2/regtest/basic/rt-multi-1/tmp
