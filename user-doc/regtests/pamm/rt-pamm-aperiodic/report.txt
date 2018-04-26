@@ -1,0 +1,8 @@
+Thu Apr 26 12:29:37 UTC 2018
+Running regtest in /home/travis/build/a-cesari/plumed2/regtest/pamm/rt-pamm-aperiodic
+++ Test type: driver
+++ Arguments: --plumed plumed.dat --ixyz ncub.xyz
+++ Processors: 0
+WARNING using plumed from /home/travis/opt/lib/plumed
+/home/travis/build/a-cesari/plumed2/regtest/pamm/rt-pamm-aperiodic/tmp
+Checking for pamm
